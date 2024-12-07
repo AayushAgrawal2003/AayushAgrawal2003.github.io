@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Bolt - Autonomous Institute Shuttle"
+excerpt: "Level 5 autonomous shuttle for IIT Madras, integrating cutting-edge perception and planning algorithms for real-world campus deployment.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

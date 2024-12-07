@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: " Ultrasound-Guided Robotic System for Autonomous Percutaneous Intervention"
+excerpt: " Created data pipelines, 3D organ maps, and tumor detection algorithms for a surgical robotics system, culminating in a submission to ICRA 2025.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
