@@ -4,7 +4,7 @@ excerpt: "Level 5 autonomous shuttle for IIT Madras, integrating cutting-edge pe
 collection: portfolio
 ---
 
-<video id="boltVideo" src="/images/portfolio/BOLT.MOV" controls width="500"></video>
+<video id="boltVideo" src="/images/Portfolio/BOLT.MOV" controls width="500"></video>
 
 <script>
   const video = document.getElementById('boltVideo');
