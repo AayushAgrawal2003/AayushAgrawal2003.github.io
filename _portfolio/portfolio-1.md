@@ -1,10 +1,9 @@
 ---
 title: "Bolt - Autonomous Institute Shuttle"
-excerpt: "Level 5 autonomous shuttle for IIT Madras, integrating cutting-edge perception and planning algorithms for real-world campus deployment.<br/>"
+excerpt: "Level 5 autonomous shuttle for IIT Madras, integrating cutting-edge perception and planning algorithms for real-world campus deployment.<br/><video id="boltVideo" src="/images/Portfolio/BOLT.MOV" controls width="500"></video>"
 collection: portfolio
 ---
 
-<video id="boltVideo" src="/images/Portfolio/BOLT.MOV" controls width="500"></video>
 
 <script>
   const video = document.getElementById('boltVideo');
