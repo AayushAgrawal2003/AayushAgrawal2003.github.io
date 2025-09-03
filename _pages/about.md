@@ -30,7 +30,6 @@ I am Aayush Agrawal, a robotics researcher and engineer, currently pursuing my *
 - **Best Design & Cybersecurity Report**, IGVC 2023.  
 
 For More Information
-------
+
 - Visit my [GitHub Repository](https://github.com/AayushAgrawal2003) for the source code of this site.
 - Connect with me on [LinkedIn](https://linkedin.com/in/aayush--agrawal) or check out my [Google Scholar](https://scholar.google.com/citations?user=z8JYL5YAAAAJ&hl=en) profile.
----
