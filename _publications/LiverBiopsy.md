@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-09-16-ultrasound-robotics
 excerpt: 'This paper explores the development of an ultrasound-guided robotic system for autonomous percutaneous interventions, highlighting innovations in 3D organ mapping and tumor detection.'
 date: 2024-09-16
-venue: 'Under Review @ ICRA 2025'
+venue: 
 paperurl: 'https://arxiv.org/abs/2410.10299'
 citation: 'Aayush Agrawal, et al. (2024). &quot;Preliminary Evaluation of an Ultrasound-Guided Robotic System for Autonomous Percutaneous Intervention.&quot; <i>IEEE International Conference on Robotics and Automation</i>.'
 ---
